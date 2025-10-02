@@ -1,7 +1,3 @@
-Of course. Here is a complete `README.md` for your Node.js API repository. It's designed to be clear, professional, and provide all the necessary information for someone to understand, set up, and use your project.
-
------
-
 # \#\# On-Demand Fargate Test Runner API
 
 A Node.js REST API for orchestrating on-demand, serverless testing environments on **AWS Fargate** using Docker.
